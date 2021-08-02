@@ -1,6 +1,7 @@
 # Deep Learning using GPT2
 In collaboration with a classmate, we have use a recurrent neural network algorithm called GPT2 in order to generate new synopsis from existing ones.
 We have take an input of 4832 synopsis from japanese anime series from the online site MyAnimeList.
+
 In order to execute the code it's necessary to have installed some libraries and frameworks. As well as some specific hardware requirements. Please check all of this in the Documentation section
 
 Next, these are some of the new synopsis that we have obtained:
