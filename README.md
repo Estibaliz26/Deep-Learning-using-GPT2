@@ -6,11 +6,11 @@ In order to execute the code it's necessary to have installed some libraries and
 
 Next, these are some of the new synopsis that we have obtained:
 
-- _Spoon was a young boy who was sent to a boarding school in England to study at.
+- *Spoon was a young boy who was sent to a boarding school in England to study at.
 He had no idea what to expect when he arrived at the school he had just moved
 into. There, he met a beautiful girl named Rita, who had come to stay with him
 after his parents had passed away. The two of them decided to start a new life
-together in London, where they met many interesting people along the way._
+together in London, where they met many interesting people along the way.*
 
 - _A young man, who has lost his mother in a trafficc accident, finds himself stranded
 on a deserted island with only a few of his possessions. There, he is greeted by a
